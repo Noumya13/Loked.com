@@ -12,8 +12,8 @@ public class loker  {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		System.out.println("DEVELOPER: NOUMYA R R");
-		System.out.println("PROJECT NAME: LockedMe.com");
+		System.out.println("@@@@@@DEVELOPER: NOUMYA R R");
+		System.out.println("$$$$$$PROJECT NAME: LockedMe.com");
 		System.out.println("------------------------");
 		int option=0;
 		while(true)
